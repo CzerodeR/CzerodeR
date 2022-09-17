@@ -15,9 +15,8 @@
 ## 💻 Technologies I Use
 
 <div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Java-007acc?style=flat-square&logo=java&logoColor=white"/>
-    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Python-007acc?style=flat-square&logo=python&logoColor=white"/>
+    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript (Professinal)-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007acc?style=flat-square&logo=python&logoColor=white"/>
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
 
